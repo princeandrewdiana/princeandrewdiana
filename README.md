@@ -1,7 +1,7 @@
 
 <p align="right"> 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=princeandrewdiana" alt="princeandrewdiana" />
-  <img src="https://img.shields.io/github/followers/princeandrewdiana?label=Follow&style=social" alt="princeandrewdiana" />
+<!--   <img src="https://img.shields.io/github/followers/princeandrewdiana?label=Follow&style=social" alt="princeandrewdiana" /> -->
 </p>
 
 <h1 align="center">Hi 👋, I'm Prince Diana</h1>
