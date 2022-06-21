@@ -1,6 +1,6 @@
 
 <p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=princeandrewdiana&label=Profile%20views&color=0e75b6&style=flat" alt="princeandrewdiana" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=princeandrewdiana" alt="princeandrewdiana" />
   <img src="https://img.shields.io/github/followers/princeandrewdiana?label=Follow&style=social" alt="princeandrewdiana" />
 </p>
 
