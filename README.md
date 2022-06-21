@@ -30,6 +30,45 @@
 
 <br/>
 
+**Languages and tools:** 
+
+<div>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
+  
+</div>
+
+<div>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"></code>
+  <code><img height="20" src="https://angular.io/assets/images/logos/angular/angular.svg"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"></code>
+<!--   <code><img height="20" src=""></code> -->
+</div>
+
+<div>
+  <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"></code>
+  <code><img height="20" src="https://reactnative.dev/img/header_logo.svg"></code>
+  <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg"></code>
+  <code><img height="20" src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg"></code>
+</div>
+
+<div>
+  <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"></code>
+  <code><img height="20" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></code>
+</div>
+
+<div>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
+</div>
+
+<br/>
+
 <div>
     <h2> 📊 Github Stats</h2>
     <br/>
