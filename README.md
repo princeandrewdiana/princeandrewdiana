@@ -15,11 +15,8 @@
     <img src="https://img.shields.io/badge/Github%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" alt="princeandrewdiana" />
   </a>
 </h3>
-
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
 <br />
-
 - 🔭 I’m currently working on **Cybergems NFT**
  
 - 🌱 I’m currently learning **Full Stack Development**
