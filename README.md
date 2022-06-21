@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Prince Diana</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
+<div align="center">
+  <a href="#">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=princeandrewdiana&label=Profile%20views&color=0e75b6&style=flat" alt="princeandrewdiana" />
   <img src="https://img.shields.io/github/followers/princeandrewdiana?label=Follow&style=social" alt="princeandrewdiana" />
