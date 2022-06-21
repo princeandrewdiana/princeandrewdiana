@@ -8,10 +8,10 @@
 <h3 align="center">
   A passionate frontend developer from Philippines
   <br/><br/>
-  <a href="https://www.linkedin.com/in/princeandrewdiana/">
+  <a href="https://www.linkedin.com/in/princeandrewdiana/" target="_blank">
     <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="princeandrewdiana" />
   </a>
-  <a href="https://princeandrewdiana.github.io/">
+  <a href="https://princeandrewdiana.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Github%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=whitee" alt="princeandrewdiana" />
   </a>
 </h3>
