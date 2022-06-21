@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **Cybergems NFT**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 💬 Ask me about **React**
 
