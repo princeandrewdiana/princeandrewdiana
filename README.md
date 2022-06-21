@@ -10,6 +10,8 @@
   <br/><br/>
   <a href="https://www.linkedin.com/in/princeandrewdiana/">
     <img src="https://img.shields.io/badge/Prince%20Diana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="princeandrewdiana" />
+  </a>
+  <a href="https://princeandrewdiana.github.io/">
     <img src="https://img.shields.io/badge/Prince%20Diana-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=whitee" alt="princeandrewdiana" />
   </a>
 </h3>
