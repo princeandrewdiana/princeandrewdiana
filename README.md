@@ -8,7 +8,9 @@
 <h3 align="center">
   A passionate frontend developer from Philippines
   <br/><br/>
-  <img src="https://img.shields.io/badge/Prince Diana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="princeandrewdiana" />
+  <a href="https://www.linkedin.com/in/princeandrewdiana/">
+    <img src="https://img.shields.io/badge/Prince Diana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="princeandrewdiana" />
+  </a>
 </h3>
 
 
