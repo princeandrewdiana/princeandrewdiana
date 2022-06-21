@@ -8,14 +8,14 @@
 <h3 align="center">
   A passionate Software Engineer from Philippines
   <br/><br/>
-  <a href="https://www.linkedin.com/in/princeandrewdiana/" target="_blank">
+  <a href="https://www.linkedin.com/in/princeandrewdiana/">
     <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="princeandrewdiana" />
   </a>
-  <a href="https://princeandrewdiana.github.io/" target="_blank">
+  <a href="https://princeandrewdiana.github.io/">
     <img src="https://img.shields.io/badge/Github%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" alt="princeandrewdiana" />
   </a>
 </h3>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="160" />
 <br />
 
 - 🔭 I’m currently working on **ReactJS Web Development**
