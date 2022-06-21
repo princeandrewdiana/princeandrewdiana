@@ -1,16 +1,30 @@
-<h1 align="center">Hi 👋, I'm Prince Diana</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
 
-<p align="left"> 
+<p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=princeandrewdiana&label=Profile%20views&color=0e75b6&style=flat" alt="princeandrewdiana" />
   <img src="https://img.shields.io/github/followers/princeandrewdiana?label=Follow&style=social" alt="princeandrewdiana" />
 </p>
+
+<h1 align="center">Hi 👋, I'm Prince Diana</h1>
+<h3 align="center">
+  A passionate frontend developer from Philippines
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Prince Diana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="princeandrewdiana" />
+</h3>
+
 
 - 🔭 I’m currently working on **Cybergems NFT**
 
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **React**
+
+<!-- - 👯 I’m looking to collaborate on **null** -->
+
+<!-- - 🤝 I’m looking for help with **null** -->
+
+<!-- - 👨‍💻 All of my projects are available at [null](null) -->
+
+<!-- - 📝 I regularly write articles on [null](null) -->
 
 <p align="left">
 </p>
