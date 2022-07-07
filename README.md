@@ -18,7 +18,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="160" />
 <br />
 
-- 🔭 I’m currently working on **Smart Contracts**
+- 🔭 I’m currently working on **React**
  
 - 🌱 I’m currently learning **Full Stack Development**
  
