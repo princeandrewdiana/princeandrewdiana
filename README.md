@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="princeandrewdiana" />
   </a>
   <a href="https://princeandrewdiana.github.io/">
-    <img src="https://img.shields.io/badge/Github%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" alt="princeandrewdiana" />
+    <img src="https://img.shields.io/badge/My Portfolio-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" alt="princeandrewdiana" />
   </a>
 </h3>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="160" />
