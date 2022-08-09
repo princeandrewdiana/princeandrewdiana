@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Prince Diana</h1>
 <h3 align="center">
-  A passionate Software Engineer from Philippines
+  A passionate Software Developer from Philippines
   <br/><br/>
   <a href="https://www.linkedin.com/in/princeandrewdiana/">
     <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="princeandrewdiana" />
