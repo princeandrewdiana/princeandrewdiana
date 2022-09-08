@@ -56,9 +56,9 @@
 </div>
 
 <div>
-  <code><img height="20" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></code>
   <code><img height="20" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"></code>
   <code><img height="20" src="https://img.shields.io/badge/Quarkus-000000?style=for-the-badge&logo=quarkus"></code>
+  <code><img height="20" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></code>
 </div>
 
 <div>
