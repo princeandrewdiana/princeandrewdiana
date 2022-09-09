@@ -9,6 +9,11 @@
     <img alt="StackOverflow"
     src="https://stackoverflow-badge.vercel.app/?userID=10616157" />
   </a>
+  <a href="https://leetcode.com/princeandrewdiana" target="_blank">
+    <img alt="StackOverflow"
+    src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fprinceandrewdiana&logo=leetcode&logoColor=yellow" />
+  </a>
+  
 </p>
 
 <h1 align="center">Hi 👋, I'm Prince Diana</h1>
