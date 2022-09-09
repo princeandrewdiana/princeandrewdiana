@@ -33,11 +33,11 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="160" />
 <br />
 
-- 🔭 I’m currently working on **Java and Spring Boot**
+- 🔭 I’m currently working on **Java** and **Spring Boot**
  
-- 🌱 I’m currently learning **Microservices with Microsoft Azure Services**
+- 🌱 I’m currently learning **Microservices** with **Microsoft Azure Services**
  
-- 💬 Ask me about **Quarkus or React**
+- 💬 Ask me about **Quarkus** or **React**
 
 <!-- - 👯 I’m looking to collaborate on **null** -->
 <!-- - 🤝 I’m looking for help with **null** -->
