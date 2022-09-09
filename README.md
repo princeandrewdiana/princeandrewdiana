@@ -4,6 +4,13 @@
   <img src="https://img.shields.io/github/followers/princeandrewdiana?label=Follow&style=social" alt="Github Followers" />
 </p>
 
+<p align="right"> 
+  <a href="https://stackoverflow.com/users/10616157/prince-diana" target="_blank">
+    <img alt="StackOverflow"
+    src="https://stackoverflow-badge.vercel.app/?userID=10616157" />
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Prince Diana</h1>
 <h3 align="center">
   A passionate Software Developer from Philippines
@@ -73,8 +80,6 @@
 <div>
   <code><img height="20" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></code>
 </div>
-
-
 
 <br/>
 
