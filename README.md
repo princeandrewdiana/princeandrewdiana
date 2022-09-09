@@ -37,7 +37,7 @@
  
 - 🌱 I’m currently learning **Microservices with Microsoft Azure Services**
  
-- 💬 Ask me about **Quarkus**
+- 💬 Ask me about **Quarkus or React**
 
 <!-- - 👯 I’m looking to collaborate on **null** -->
 <!-- - 🤝 I’m looking for help with **null** -->
